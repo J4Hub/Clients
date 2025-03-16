@@ -1,8 +1,8 @@
 {
-  "version_code": 3,
-  "version_name": "1.0.1",
+  "version_code": 2,
+  "version_name": "Delux Edition",
   "titleText": "بروز رسانی در دسترس است",
-  "mainText": "رفع یکسری از باگ ها و مشکلات جزئی",
+  "mainText": "ویژگی های جدید در دسترس قرار گرفته شد",
   "apkLink": "https://example.com/app.apk",
-  "apkSize": "15.2 MB"
+  "apkSize": "5.7 MB"
 }
