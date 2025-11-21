@@ -1,9 +1,9 @@
 {
   "lock": {
-    "enabled": 0,
+    "enabled": 1,
     "title": "دسترسی محدود",
     "message": "در حال حاضر امکان استفاده از برنامه وجود ندارد.",
-    "allow_skip": 0
+    "allow_skip": 1
   },
 
   "update": {
