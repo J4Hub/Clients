@@ -11,6 +11,7 @@
     "message": "لطفاً برنامه را به جدیدترین نسخه بروزرسانی کنید.",
     "latest_version_code": 1,
     "apk_url": "https://example.com/app-latest.apk",
+    "apk_size": "2.7MB",
     "force_update": 0
   }
 }
