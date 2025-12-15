@@ -1,0 +1,17 @@
+{
+  "lock": {
+    "enabled": 0,
+    "title": "دسترسی محدود",
+    "message": "در حال حاضر امکان استفاده از برنامه وجود ندارد.",
+    "allow_skip": 1
+  },
+
+  "update": {
+    "title": "نسخه جدید در دسترس است",
+    "message": "لطفاً برنامه را به جدیدترین نسخه بروزرسانی کنید.",
+    "latest_version_code": 1,
+    "apk_url": "https://example.com/app-latest.apk",
+    "apk_size": "2.7MB",
+    "force_update": 0
+  }
+}
