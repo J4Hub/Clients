@@ -9,9 +9,9 @@
   "update": {
     "title": "نسخه جدید در دسترس است",
     "message": "لطفاً برنامه را به جدیدترین نسخه بروزرسانی کنید.",
-    "latest_version_code": 2,
+    "latest_version_code": 3,
     "apk_url": "https://kermanaa.ir/app/Kerman-AA.apk",
-    "apk_size": "1.59MB",
+    "apk_size": "1.78MB",
     "force_update": 1
   }
 }
